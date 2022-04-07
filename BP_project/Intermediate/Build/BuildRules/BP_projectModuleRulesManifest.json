@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\UE4_projects\\BP_project\\Source\\BP_project\\BP_project.Build.cs",
+		"H:\\UE4_projects\\BP_project\\Source\\BP_project.Target.cs",
+		"H:\\UE4_projects\\BP_project\\Source\\BP_projectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

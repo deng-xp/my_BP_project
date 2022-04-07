@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BP_project",
+			"Path": "H:\\UE4_projects\\BP_project\\Source\\BP_project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BP_projectEditor",
+			"Path": "H:\\UE4_projects\\BP_project\\Source\\BP_projectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
